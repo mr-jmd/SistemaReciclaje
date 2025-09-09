@@ -246,7 +246,7 @@ Este sistema contribuye directamente a las metas del ODS 11:
 
 ## 📄 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para detalles.
+Este proyecto está licenciado bajo la Licencia MIT
 
 ---
 
