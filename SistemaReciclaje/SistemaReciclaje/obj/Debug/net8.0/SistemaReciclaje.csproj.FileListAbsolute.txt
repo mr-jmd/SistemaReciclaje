@@ -1,0 +1,15 @@
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.AssemblyInfoInputs.cache
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.AssemblyInfo.cs
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.csproj.CoreCompileInputs.cache
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.sourcelink.json
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\bin\Debug\net8.0\SistemaReciclaje.exe
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\bin\Debug\net8.0\SistemaReciclaje.deps.json
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\bin\Debug\net8.0\SistemaReciclaje.runtimeconfig.json
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\bin\Debug\net8.0\SistemaReciclaje.dll
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\bin\Debug\net8.0\SistemaReciclaje.pdb
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.dll
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\refint\SistemaReciclaje.dll
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.pdb
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\SistemaReciclaje.genruntimeconfig.cache
+C:\Projects\SistemaReciclaje\SistemaReciclaje\SistemaReciclaje\obj\Debug\net8.0\ref\SistemaReciclaje.dll
