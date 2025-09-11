@@ -57,12 +57,6 @@ dotnet run
 dotnet build --configuration Release
 ```
 
-### Ejecutar pruebas (opcional)
-```bash
-cd tests/SistemaReciclaje.Tests
-dotnet test
-```
-
 ## 🎮 Guía de Uso
 
 ### Menú Principal
